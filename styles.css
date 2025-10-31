@@ -1,0 +1,50 @@
+h1{
+	color: #fff;
+}
+body{
+	background-color: #5e1010;
+	background-size: 150%;
+	background-repeat: no-repeat;
+	
+}
+.redParagraph{
+	color: #fff;
+}
+p{
+	color: #fff;
+}
+h3{
+	color: #fff;
+	font-family: Verdana;
+	text-align: center;
+}
+img{
+	border-radius: 25px;
+}
+img:hover{
+	border-radius: 50px;
+}
+ul{
+	list-style-type: none;
+	background-color: #669bbc;
+	overflow: hidden;
+}
+ul li{
+	float: left;
+	text-align: center;
+}
+ul li a{
+	text-decoration: none;
+	display: block;
+	width: 75px;
+	padding: 14px 15px;
+	color: #fff;
+}
+ul li a:hover{
+	background-color: #558aaa;
+
+}
+.active{
+	font-weight: bold;
+	border-bottom: solid 2px #fff;
+}
