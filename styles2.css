@@ -19,3 +19,8 @@ li a:hover {
 	background-color: #eee;
 	border-bottom: #eee;
 }
+
+p{
+	text-decoration: none;
+	color: #000;
+}
